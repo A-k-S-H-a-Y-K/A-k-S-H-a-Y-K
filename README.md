@@ -43,8 +43,8 @@ A self-taught `Full-Stack Mobile Developer`.
   - `Sprint Boot (Java/Kotlin)` • `⭐️⭐️⭐️` `⭐️⭐️`
 
 ### Projects
-- Rental Management Using BlockChain (Solidity).
-- Water Body Detection Using DeepLearning Models.
+- 1. Rental Management System using Blockchain : Developed a decentralized platform with smart contracts toautomate rental agreements, payments, and propertyverification. Ensured secure, transparent, and tamper-proof transactions between landlords and tenants, reducing fraudand intermediaries.
+- 2. Water Body Detection Using Deep Learning Models fromRemote Sensing :Developed a deep learning-based solution to detect waterbodies from remote sensing data. Applied hierarchical featureextraction and sequential methods to optimize dataprocessing. Leveraged Deep Residual Networks (ResNet50) forimage segmentation and Random Forest for improveddecision-making, enhancing detection accuracy and providingvaluable insights for environmental monitoring.
 ---
 
 If not engineering software products, I see reels on Instagram 
