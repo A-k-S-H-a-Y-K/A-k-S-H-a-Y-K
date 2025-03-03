@@ -26,7 +26,7 @@ A self-taught `Full-Stack Mobile Developer`.
 * I develop web applications in `Next.js` and `Svelte`.
 * I develop backend applications in `Node.js` and `Sprint Boot`.
 
-### Experience
+### Experience 
 
 - Mobile
   - `Flutter (Dart)` • `⭐️⭐️⭐️⭐️⭐️`
@@ -43,13 +43,9 @@ A self-taught `Full-Stack Mobile Developer`.
   - `Sprint Boot (Java/Kotlin)` • `⭐️⭐️⭐️` `⭐️⭐️`
 
 ### Projects
-- [`AI Shorts (Byte-sized AI News)`](https://aishorts.club/)
-- [`Togger (Tinder for Shopping)`](https://toggerclub.com)
-- [`Silicon (Swift DSL)`](https://github.com/kabir-asani/Silicon)
-
+- Rental Management Using BlockChain (Solidity).
+- Water Body Detection Using DeepLearning Models.
 ---
 
-If not engineering software products, I see reels on Instagram ([`@kabirstack`](https://instagram.com/kabirstack))
+If not engineering software products, I see reels on Instagram 
 
-- 🕸 [`X@KabirAsani`](https://twitter.com/KabirAsani) • [`LinkedIn`](https://www.linkedin.com/in/kabirasani/)
-- ⚡ I hail from [`India (🇮🇳)`](https://en.wikipedia.org/wiki/India) which houses one of the [`7 wonders`](https://en.wikipedia.org/wiki/Taj_Mahal)!
