@@ -47,5 +47,5 @@ A self-taught `Full-Stack Mobile Developer`.
 -  Water Body Detection Using Deep Learning Models fromRemote Sensing :Developed a deep learning-based solution to detect waterbodies from remote sensing data. Applied hierarchical featureextraction and sequential methods to optimize dataprocessing. Leveraged Deep Residual Networks (ResNet50) forimage segmentation and Random Forest for improveddecision-making, enhancing detection accuracy and providingvaluable insights for environmental monitoring.
 ---
 
-If not engineering software products, I see reels on Instagram 
+If not engineering software products, I play games on my laptop
 
