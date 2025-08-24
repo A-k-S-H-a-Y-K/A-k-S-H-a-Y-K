@@ -21,27 +21,6 @@ Here are some ideas to get you started:
 -->
 # `Hello World, I'm AKSHAY K 👋🏽`
 
-A self-taught `Full-Stack Mobile Developer`. 
-* I develop mobile applications in `Flutter`, `React Native`, `SwiftUI` and `Compose`.
-* I develop web applications in `Next.js` and `Svelte`.
-* I develop backend applications in `Node.js` and `Sprint Boot`.
-
-### Experience 
-
-- Mobile
-  - `Flutter (Dart)` • `⭐️⭐️⭐️⭐️⭐️`
-  - `SwiftUI (Swift)` • `⭐️⭐️⭐️⭐️` `⭐️`
-  - `React Native (JS/TS)` • `⭐️⭐️⭐️⭐️` `⭐️`
-  - `Compose (Kotlin)` • `⭐️⭐️⭐️` `⭐️⭐️`
-
-- Web
-  - `Next.js (JS/TS)` • `⭐️⭐️⭐️⭐️⭐️`
-  - `Svelte (JS/TS)` • `⭐️⭐️⭐️` `⭐️⭐️`
- 
-- Back End
-  - `Node.js (JS/TS)` • `⭐️⭐️⭐️⭐️⭐️`
-  - `Sprint Boot (Java/Kotlin)` • `⭐️⭐️⭐️` `⭐️⭐️`
-
 ### Projects
 -  Rental Management System using Blockchain : Developed a decentralized platform with smart contracts toautomate rental agreements, payments, and propertyverification. Ensured secure, transparent, and tamper-proof transactions between landlords and tenants, reducing fraudand intermediaries.
 -  Water Body Detection Using Deep Learning Models fromRemote Sensing :Developed a deep learning-based solution to detect waterbodies from remote sensing data. Applied hierarchical featureextraction and sequential methods to optimize dataprocessing. Leveraged Deep Residual Networks (ResNet50) forimage segmentation and Random Forest for improveddecision-making, enhancing detection accuracy and providingvaluable insights for environmental monitoring.
