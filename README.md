@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I like taking ML systems apart, rebuilding them, and proving with numbers that they work.
+ I build things, break them, and bring receipts. 🧾
 </p>
 
 ---
